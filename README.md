@@ -1,4 +1,4 @@
-# amazon-clone-HTML-CSS-
+# amazon-clone
 Frontend UI clone of Amazon using pure HTML and CSS 
 
 ## Features
